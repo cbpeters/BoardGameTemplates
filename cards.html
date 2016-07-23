@@ -11,6 +11,17 @@
             <div class="description">{{card.description}}</div>
         </div>
     </cards>
+
+    <hr style="clear:both"/>
+
+    <cards>
+        <div class="card {{card.color}}" ng-repeat="card in quests">
+            <div class="title">{{card.title}}</div>
+            <div class="image" style="background-image: url('{{card.image}}"></div>
+            <div class="type">{{card.type}}</div>
+            <div class="description">{{card.description}}</div>
+        </div>
+    </cards>
    
     <script type="text/javascript" src="/js/angular.min.js"></script>
     <script type="text/javascript" src="/js/app.js"></script>

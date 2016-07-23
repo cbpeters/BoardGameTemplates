@@ -1,0 +1,162 @@
+[
+  {
+    "number": 1,
+    "title": "Forestry Service",
+    "type": "Difficulty - High",
+    "description": "Clear all monsters in one of the forest areas.",
+    "cards": 3,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-large.jpg"
+  },
+  {
+    "number": 2,
+    "title": "Ascension",
+    "type": "Difficulty - High",
+    "description": "All allied heroes must be level 3.",
+    "cards": 3,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-large.jpg"
+  },
+  {
+    "number": 3,
+    "title": "Enchanted",
+    "type": "Difficulty - High",
+    "description": "All allied heroes must have at least 1 enchantment affecting them.",
+    "cards": 3,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-large.jpg"
+  },
+  {
+    "number": 4,
+    "title": "Troll Hunter",
+    "type": "Difficulty - High",
+    "description": "Defeat the troll boss in the middle of the map.",
+    "cards": 3,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-large.jpg"
+  },
+  {
+    "number": 5,
+    "title": "Blood Lust",
+    "type": "Difficulty - High",
+    "description": "All 3 enemy heroes must be waiting to respawn.",
+    "cards": 3,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-large.jpg"
+  },
+  {
+    "number": 6,
+    "title": "United We Stand",
+    "type": "Difficulty - Low",
+    "description": "All allied heroes must be adjacent to one another.",
+    "cards": 1,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-small.jpg"
+  },
+  {
+    "number": 7,
+    "title": "Storm the Gate",
+    "type": "Difficulty - Low",
+    "description": "All allied heroes must be in the same lane as each other.",
+    "cards": 1,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-small.jpg"
+  },
+  {
+    "number": 8,
+    "title": "Hold the Line",
+    "type": "Difficulty - Low",
+    "description": "All allied heroes must be standing in different lanes.",
+    "cards": 1,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-small.jpg"
+  },
+  {
+    "number": 9,
+    "title": "Hired Hand",
+    "type": "Difficulty - Low",
+    "description": "Kill an allied hero with one of your team's heroes.",
+    "cards": 1,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-small.jpg"
+  },
+  {
+    "number": 10,
+    "title": "Exorcist",
+    "type": "Difficulty - Low",
+    "description": "Clear one camp of ghosts from the forests.",
+    "cards": 1,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-small.jpg"
+  },
+  {
+    "number": 11,
+    "title": "Task Master",
+    "type": "Difficulty - Moderate",
+    "description": "Use more than one Consumable/Action item on a single turn.",
+    "cards": 2,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-medium.jpg"
+  },
+  {
+    "number": 12,
+    "title": "Spell Weaver",
+    "type": "Difficulty - Moderate",
+    "description": "Cast more than one Consumable/Action spell on a single turn.",
+    "cards": 2,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-medium.jpg"
+  },
+  {
+    "number": 13,
+    "title": "Unstoppable",
+    "type": "Difficulty - Moderate",
+    "description": "One of your heores must slay two enemy heroes without dying.",
+    "cards": 2,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-medium.jpg"
+  },
+  {
+    "number": 14,
+    "title": "Slaughter the Weak",
+    "type": "Difficulty - Moderate",
+    "description": "Kill more than one hero in a single hero's turn.",
+    "cards": 2,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-medium.jpg"
+  },
+  {
+    "number": 15,
+    "title": "Arachnodphobia",
+    "type": "Difficulty - Moderate",
+    "description": "Clear one group of spiders in either forest.",
+    "cards": 2,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-medium.jpg"
+  },
+  {
+    "number": 16,
+    "title": "Lessons Learned",
+    "type": "Difficulty - Moderate",
+    "description": "All heroes must be standing in different lanes.",
+    "cards": 2,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-medium.jpg"
+  },
+  {
+    "number": 17,
+    "title": "Exorcist",
+    "type": "Difficulty - Moderate",
+    "description": "Clear ghosts from both forests.",
+    "cards": 2,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-medium.jpg"
+  },
+  {
+    "number": 18,
+    "title": "Silent Night",
+    "type": "Difficulty - Moderate",
+    "description": "Cast no spells during each of your allied hero's turns.",
+    "cards": 2,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-medium.jpg"
+  },
+  {
+    "number": 19,
+    "title": "Another Round!",
+    "type": "Difficulty - Moderate",
+    "description": "Use 3 potions in one turn.",
+    "cards": 2,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-medium.jpg"
+  },
+  {
+    "number": 20,
+    "title": "Revenge",
+    "type": "Difficulty - Moderate",
+    "description": "Kill an enemy hero who most recently slayed an ally.",
+    "cards": 2,
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/coins-pile-medium.jpg"
+  }
+]

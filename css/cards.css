@@ -8,6 +8,10 @@
     float: left;
 }
 
+/*.card.red {
+    background-image: url('/img/card-red.png');   
+}*/
+
 .image {
     position: absolute;
     top: 40px;
