@@ -1,0 +1,18 @@
+<html>
+<head>
+    <link href="/cards.css" type="text/css" rel="stylesheet">
+</head>
+<body ng-app="gameApp">
+    <cards>
+        <div class="card {{card.color}}" ng-repeat="card in cards">
+            <div class="title">{{card.title}}</div>
+            <div class="image" style="background-image: url('{{card.image}}"></div>
+            <div class="type">{{card.type}}</div>
+            <div class="description">{{card.description}}</div>
+        </div>
+    </cards>
+   
+    <script type="text/javascript" src="/angular.min.js"></script>
+    <script type="text/javascript" src="/app.js"></script>
+</body>
+</html>

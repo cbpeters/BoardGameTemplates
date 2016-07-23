@@ -1,0 +1,272 @@
+[
+  {
+    "number": 1,
+    "type": "Consumable/Potion",
+    "title": "Potion of Healing",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/flask-spherical.jpg",
+    "description": "Restore 2 hp.",
+    "count": 5,
+    "color": "Blue"
+  },
+  {
+    "number": 2,
+    "type": "Consumable/Potion",
+    "title": "Potion of Greater Healing",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/flask-square.jpg",
+    "description": "Restore 4 hp.",
+    "count": 3,
+    "color": "Blue"
+  },
+  {
+    "number": 3,
+    "type": "Consumable/Potion",
+    "title": "Potion of Focus",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/flask-deco.jpg",
+    "description": "Provides 2 extra actions until end of turn.",
+    "count": 1,
+    "color": "Blue"
+  },
+  {
+    "number": 4,
+    "type": "Consumable/Potion",
+    "title": "Potion of Haste",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/flask-fleetfoot.jpg",
+    "description": "Provides 1 extra movement per action until end of turn.",
+    "count": 1,
+    "color": "Blue"
+  },
+  {
+    "number": 5,
+    "type": "Consumable/Potion",
+    "title": "Elixir of Fortitude",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/flask-bull.jpg",
+    "description": "Provides 10 addtional max hp until end of next turn.",
+    "count": 1,
+    "color": "Blue"
+  },
+  {
+    "number": 6,
+    "type": "Consumable/Potion",
+    "title": "Elixir of Rage",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/flask-homunculus.jpg",
+    "description": "Grants 2 additional attack damage until end of turn.",
+    "count": 1,
+    "color": "Blue"
+  },
+  {
+    "number": 7,
+    "type": "Consumable/Potion",
+    "title": "Elixir of Life",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/flask-heart.jpg",
+    "description": "Restore a fallen ally to full hp at the location of his/her death.",
+    "count": 2,
+    "color": "Blue"
+  },
+  {
+    "number": 8,
+    "type": "Consumable/Potion",
+    "title": "Dragon's Blood",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/flask-chimera.jpg",
+    "description": "Increased fortune to the user - Guarantee the success of your next coin flip.",
+    "count": 2,
+    "color": "Blue"
+  },
+  {
+    "number": 1,
+    "type": "Consumable/Spell",
+    "title": "Scroll of Return",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/scroll-magic-circle.jpg",
+    "description": "Return to town.",
+    "count": 2,
+    "color": "Red"
+  },
+  {
+    "number": 2,
+    "type": "Consumable/Spell",
+    "title": "Scroll of Immunity",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/scroll-bull.jpg",
+    "description": "Prevent all damage until end of next turn.",
+    "count": 1,
+    "color": "Red"
+  },
+  {
+    "number": 3,
+    "type": "Consumable/Spell",
+    "title": "Scroll of Silence",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/scroll-tattoo-skin.jpg",
+    "description": "Prevent target hero from casting any spells until end of next turn.",
+    "count": 1,
+    "color": "Red"
+  },
+  {
+    "number": 4,
+    "type": "Consumable/Spell",
+    "title": "Tome of Knowledge",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/book-strange.jpg",
+    "description": "Grant user +3 experience points.",
+    "count": 2,
+    "color": "Red"
+  },
+  {
+    "number": 5,
+    "type": "Consumable/Spell",
+    "title": "Tome of Power",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/book-burning.jpg",
+    "description": "Grant user +1 damage to his/her physical attacks for the rest of the game.",
+    "count": 1,
+    "color": "Red"
+  },
+  {
+    "number": 6,
+    "type": "Consumable/Spell",
+    "title": "Tome of Foresight",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/book-sigils.jpg",
+    "description": "Look at opposing player's hand.",
+    "count": 1,
+    "color": "Red"
+  },
+  {
+    "number": 1,
+    "type": "Consumable/Action",
+    "title": "Poisnous Vile",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/flask-phial.jpg",
+    "description": "Discard 1 healing potion card and deal X damage to an adjacent hero.",
+    "count": 1,
+    "color": "Green"
+  },
+  {
+    "number": 2,
+    "type": "Consumable/Action",
+    "title": "Explosive Cocktail",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/flask-flame.jpg",
+    "description": "Deal X damage to any hero up to 3 spaces from the user. Where 'X' is half the target's current HP rounded down to the nearest whole number.",
+    "count": 1,
+    "color": "Green"
+  },
+  {
+    "number": 3,
+    "type": "Consumable/Action",
+    "title": "Coat of Arms",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/shield-fortress.jpg",
+    "description": "The user cannot perform physical attacks until this card is resolved. If this character survives until his/her next turn then gain 5 experience points.",
+    "count": 1,
+    "color": "Green"
+  },
+  {
+    "number": 4,
+    "type": "Consumable/Action",
+    "title": "Sleight of Hand",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/tools-thief.jpg",
+    "description": "Steal 2 reward cards at random from your opponent's hand.",
+    "count": 1,
+    "color": "Green"
+  },
+  {
+    "number": 5,
+    "type": "Consumable/Action",
+    "title": "Disenchant",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/scroll-arcane.jpg",
+    "description": "Chose one enchantment on any hero and have them discard that card.",
+    "count": 1,
+    "color": "Green"
+  },
+  {
+    "number": 6,
+    "type": "Consumable/Action",
+    "title": "Salvage",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/tools-shovel.jpg",
+    "description": "Return one discarded enchantment card from the discard pile to one of your heroes.",
+    "count": 1,
+    "color": "Green"
+  },
+  {
+    "number": 1,
+    "type": "Enchantment/Armor",
+    "title": "Protection",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/belt-ox.jpg",
+    "description": "Grant user +2 hp.",
+    "count": 1,
+    "color": "Black"
+  },
+  {
+    "number": 2,
+    "type": "Enchantment/Armor",
+    "title": "Resistance",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/belt-pelor.jpg",
+    "description": "Reduced spell damage taken by 2.",
+    "count": 1,
+    "color": "Black"
+  },
+  {
+    "number": 3,
+    "type": "Enchantment/Armor",
+    "title": "Speed",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/boots-winged.jpg",
+    "description": "Increased movements per action by +1 once per turn.",
+    "count": 1,
+    "color": "Black"
+  },
+  {
+    "number": 4,
+    "type": "Enchantment/Armor",
+    "title": "Evasion",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/belt-wings.jpg",
+    "description": "Chance to dodge physical attacks - Roll 1d6 if 6 then dodge successful.",
+    "count": 1,
+    "color": "Black"
+  },
+  {
+    "number": 5,
+    "type": "Enchantment/Armor",
+    "title": "Briars",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/collar-hellhound.jpg",
+    "description": "Return 1 damage to physical attackers per attack received.",
+    "count": 1,
+    "color": "Black"
+  },
+  {
+    "number": 6,
+    "type": "Enchantment/Weapon",
+    "title": "Fire",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/wand-pentagram.jpg",
+    "description": "User's attacks burn for 1 damage on the receiver's next turn.",
+    "count": 1,
+    "color": "Silver"
+  },
+  {
+    "number": 7,
+    "type": "Enchantment/Weapon",
+    "title": "Ice",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/wand-1.jpg",
+    "description": "User's attack cause target's movement actions to use 1 additional action.",
+    "count": 1,
+    "color": "Silver"
+  },
+  {
+    "number": 8,
+    "type": "Enchantment/Weapon",
+    "title": "Force",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/staff-walking-stick.jpg",
+    "description": "User's physical attacks knock back the receiver 1 space in any direction of the user's choosing.",
+    "count": 1,
+    "color": "Silver"
+  },
+  {
+    "number": 9,
+    "type": "Enchantment/Weapon",
+    "title": "Power",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/wand-regal.jpg",
+    "description": "Flip a coin. If heads, user's attacks deal 2 additionl damage on physical attacks.",
+    "count": 1,
+    "color": "Silver"
+  },
+  {
+    "number": 10,
+    "type": "Enchantment/Weapon",
+    "title": "Executioner",
+    "image": "http://greywolf.critter.net/images/ad&d/clipart/wand-charm-monster.jpg",
+    "description": "User rolls a 6 sided die when attacking and if a 6 is rolled their attack deals 2x more damage.",
+    "count": 1,
+    "color": "Silver"
+  }
+]

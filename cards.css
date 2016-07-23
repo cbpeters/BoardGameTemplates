@@ -1,0 +1,39 @@
+.card { 
+    background-image: url('/card-bg.jpg'); 
+    width: 240px; 
+    height: 336px; 
+    background-size: cover; 
+    font-size: .8em;
+    position: relative;
+    float: left;
+}
+
+.image {
+    position: absolute;
+    top: 40px;
+    left: 25px;
+    width: 190px;
+    height: 145px;    
+    background-size: contain; 
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.title { 
+    position: absolute;
+    top: 20px; 
+    left: 25px;
+}
+
+.type {
+    position: absolute;
+    left: 25px;
+    top: 190px;
+}
+
+.description {
+    position: absolute;
+    left: 25px;
+    top: 215px;
+    width: 185px;
+}

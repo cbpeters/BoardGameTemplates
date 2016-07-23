@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [        
+        {
+            "name": "Debug",
+            "type": "node",
+            "program": "${workspaceRoot}/node_modules/gulp/bin/gulp.js",
+            "args": ["webserver"]
+        }
+    ]
+}
